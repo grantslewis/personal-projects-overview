@@ -32,7 +32,19 @@ Because a sliding window approach was used, We could also produce a plot to show
 
 ### Ancestor Avatar Generation
 
-Image generation has improved dramatically with the advent of diffusion models.  One such use-case is to generate images of people, or avatars for ancestors who do not have this information readily available.  My intention was to develop a simple interface where people could provide some basic information and generate an image for
+Image generation has improved dramatically with the advent of diffusion models.  One such use-case is to generate images of people, or avatars for ancestors who do not have this information readily available.  My intention was to develop a simple interface where people could provide some basic information and generate an image for a user.
+
+<!-- Jew -->
+![Jew](./images/avatar_generation/Jew.png "Jew")
+<!-- Italian -->
+![Italian](./images/avatar_generation/Italian.png "Italian")
+<!-- Indian -->
+![Indian](./images/avatar_generation/Indian.png "Indian")
+<!-- Swiss -->
+![Swiss](./images/avatar_generation/Swiss.png "Swiss")
+<!-- Viking -->
+![Viking](./images/avatar_generation/Viking.png "Viking")
+
 
 
 ### Skyjo Game Bot
